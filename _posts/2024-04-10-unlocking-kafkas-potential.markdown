@@ -5,7 +5,6 @@ date:   2024-04-10 20:00:00 +0100
 categories: [performance]
 ---
 
-
 In March, together with my colleague Piotr Rżysko we have published an article about Kafka performance analysis
 using eBPF: [https://blog.allegro.tech/2024/03/kafka-performance-analysis.html](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html).
 
